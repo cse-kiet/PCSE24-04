@@ -1,0 +1,64 @@
+{"intents":[
+    {"tag":"greetings",
+    "patterns":["Hello","Hey","Hi","Good day","Greetings","What's up?","How is it going"],
+    "responses":["Hello!","Hey!","What can I do for you?"]
+},
+{"tag":"goodbye",
+"patterns":["See you later","Goodbye","I am leaving","Have a Good day","bye","see you"],
+"responses":["Talk to you later","Bye!"]
+},
+{
+    "tag":"name",
+    "patterns":["What is your name?","Your name"],
+    "responses":["I am Mukti Bot"]
+},
+{"tag":"about",
+"patterns":["What is Nasha Mukt  Bharat Abhiyaan","Tell me about Nasha Mukt Bharat Abhiyaan","Nasha Mukt Abhiyaan","What is NMBA"],
+"responses":["Nasha Mukt Bharat Abhiyaan intends to reach out to the masses and spread awareness about substance abuse through various activities like: Awareness generation programmes."]
+},
+{"tag":"involve",
+"patterns":["How can I involved with this campaign?","How can I join with this abhiyaan"],
+"responses":["Participate in the event\nBeing the volunteer with us\nOrganise your own event\nComplete the given task" ]
+},
+{"tag":"disadvantage",
+"patterns":["What is the disadvantage of taking a drugs?","What will happen if I am taking a drugs?"],
+"responses":["Mental Health\nFinancial issues\nRelationship issues\nLegal issues and many more"]
+},
+{
+    "tag":"thanks",
+    "patterns":["thank you","ok","okk","Okk","thanks","nice","great","Ok","Thanks","Thanks for information"],
+    "responses":["Thank you for asking queries"]
+},
+{
+    "tag":"starting",
+    "patterns":["When was Nasha MUKT Bharat Abhiyan launched?","WHO launched Nasha MUKT Bharat?","How many district are the part of Nasha Mukti Bharat Abhiyaan?"],
+    "responses":["Ministry of Social Justice & Empowerment which is the Nodal Ministry for Drug Demand Reduction has formulated and launched Nasha Mukt Bharat Abhiyaan (NMBA) on 15th August 2020, in 272 Districts across 32 State/Union Territories identified as most vulnerable in terms of usage of drugs in the country."]
+},
+{
+    "tag":"departments",
+    "patterns":["Which three departments are involved in the Nasha Mukt Bharat Abhiyaan?"],
+    "responses":["Narcotics Control Bureau, Outreach and Awareness and Demand Reduction effort by Social Justice and Empowerment and treatment through Health Department."]
+},
+{
+    "tag":"alcohol",
+    "patterns":["How can I avoid drinking?","How can I avoid alcohol?","What is the procedure to not drink?"],
+    "responses":["Announce your goal\nBe upfront about your new limits\nGet rid of temptations\nAvoid bad influences\n\nAlso you can join the event\nParul University\nDate-26/08/2022\nTime-09:00 A.M. to 11:00 A.M."]
+},
+{
+    "tag":"smoking",
+    "patterns":["How can I avoid smoking?","How can I avoid ciggrate"],
+    "responses":["1. Try nicotine replacement therapy\n2. Avoid triggers\n3. Delay\n4. Remind yourself of the benefits\n\nAlso you can join the event\nParul University\nDate-26/08/2022\nTime-09:00 A.M. to 11:00 A.M."]
+},
+{
+    "tag":"near_location",
+    "patterns":["What location is perfect near around me to conduct events","want to organize event near me"],
+    "responses":["Ok"]
+},
+{
+    "tag":"slogan",
+        "patterns":["Tell some slogan realted to Nasha Mukt Bharat Abhiyaan","Tell me some slogan"],
+        "responses":["1.Be A Hero, Be Drug Zero.\n2.If It's Addicting, It's Not Life-Changing."]
+    
+}
+
+]}
